@@ -1,7 +1,7 @@
 [project]
 name = "NewsEntityTracker"
 version = "0.1.0"
-description = "A real-time data analysis project focused on extracting and analyzing named entities from news articles."
+description = "A real-time Big Data analysis project focused on extracting and analyzing named entities from current news articles."
 authors = [
     {name = "spenpal",email = "spenpal2000@gmail.com"},
 ]
