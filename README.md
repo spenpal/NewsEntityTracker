@@ -4,7 +4,7 @@
 
 ![Example Bar Plots in Kibana](/docs/example_plots.png)
 
-You can read about my summarized findings [here](/docs/report.pdf).
+You can read my summarized findings [here](/docs/report.pdf).
 
 This [project](/docs/instructions.pdf) was completed in the following setting:
 
